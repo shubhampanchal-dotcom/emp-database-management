@@ -16,4 +16,4 @@
 
 # Enter your database connection string in .env file in the following format:
 
-### DATABASE_URL=postgresql://<username>:<password>@localhost:5432/employee_db
+### DATABASE_URL=postgresql://username:password@localhost:5432/employee_db
