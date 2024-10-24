@@ -14,6 +14,6 @@
 ## http://127.0.0.1:8000/docs
 
 
-# Enter your database connection string in .env file in the following format:
+## Enter your database connection string in .env file in the following format:
 
 ### DATABASE_URL=postgresql://username:password@localhost:5432/employee_db
